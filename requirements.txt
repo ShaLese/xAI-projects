@@ -1,4 +1,4 @@
 streamlit
 openai
 nest_asyncio
-cchardet==2.1.7
+cchardet
