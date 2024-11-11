@@ -1,3 +1,4 @@
 streamlit
 openai
 nest_asyncio
+cchardet
